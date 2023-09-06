@@ -1,16 +1,23 @@
-### Hi there 👋
+# ⚡Hi there 👋 I am yazArtist.⚡
 
-<!--
-**yazArtist/yazArtist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨✨Welcome to my GitHub profile.✨✨
+🐳I am a student of Computer Engineering.
 
-Here are some ideas to get you started:
+🌱 On my GitHub profile I will share my areas of interest in Computer Engineering and the projects I have worked on in this field.
+🌱 My passion for software development is evident in both my university coursework and my personal projects, where I have worked on various projects using the Python language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I have developed a keen interest in cyber security, particularly in the later years of my university education. I am dedicated to understanding the fundamental concepts and threats in the field. By working on cybersecurity applications and techniques, I aim to gain more knowledge and experience in the field.
+
+💬 --> Feel free to explore the projects on my GitHub profile. 
+Please do not hesitate to contact me for any collaboration opportunities or questions.
+
+## ✨✨ Thank you very much! ✨✨
+
+```
+ ( (   (    (       (        (   
+ )\)\  )\  (  )\  (   )\  ( (  )\  
+((_)_)(_() )\(_() )\ ((_) )\)\((_) 
+| || |(_)()(_)   \( )| |_(_)(_) |_ 
+ \_. | _` |_ / - | '_|  _| |_-/  _|
+ |__/\__/_|__|_|_|_|  \__|_|__/\__|
+```
